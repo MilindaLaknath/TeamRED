@@ -34,8 +34,8 @@ if ($production == false) {
     $SUBSCRIPTION_SERVER_URL = "http://api.dialog.lk:8080/subscription/send";
 }
 
-define('APP_ID', 'APP_018031');
-define('APP_PASSWORD', 'edce58fc6baf9346a5ffa97df21f6863');
+define('APP_ID', 'APP_ID');
+define('APP_PASSWORD', 'APP_PASSWORD');
 
 $logger = new Logger();
 
